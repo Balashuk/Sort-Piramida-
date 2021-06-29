@@ -1,0 +1,32 @@
+D:\Навчання\Програмування\Лабараторні роботи, 2 курс, 2 семестр\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe.config
+D:\Навчання\Програмування\Лабараторні роботи, 2 курс, 2 семестр\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe
+D:\Навчання\Програмування\Лабараторні роботи, 2 курс, 2 семестр\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.pdb
+D:\Навчання\Програмування\Лабараторні роботи, 2 курс, 2 семестр\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.csprojResolveAssemblyReference.cache
+D:\Навчання\Програмування\Лабараторні роботи, 2 курс, 2 семестр\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.exe
+D:\Навчання\Програмування\Лабараторні роботи, 2 курс, 2 семестр\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.pdb
+D:\Учёба\Жуковская программирование\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe.config
+D:\Учёба\Жуковская программирование\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.exe
+D:\Учёба\Жуковская программирование\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.pdb
+D:\Учёба\Жуковская программирование\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe
+D:\Учёба\Жуковская программирование\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.pdb
+D:\Учёба\Жуковская программирование\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.csprojResolveAssemblyReference.cache
+H:\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe.config
+H:\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.exe
+H:\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.pdb
+C:\Users\Dima\Desktop\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe.config
+C:\Users\Dima\Desktop\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.exe
+C:\Users\Dima\Desktop\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.pdb
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe.config
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.pdb
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.csprojAssemblyReference.cache
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.exe
+C:\Users\gamey\Desktop\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.pdb
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe.config
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.exe
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\bin\Debug\Priramida_Algoritm.pdb
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.csprojAssemblyReference.cache
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.exe
+C:\Users\gamey\Desktop\погамать\Algorutm\Priramida_Algoritm\Priramida_Algoritm\obj\Debug\Priramida_Algoritm.pdb
